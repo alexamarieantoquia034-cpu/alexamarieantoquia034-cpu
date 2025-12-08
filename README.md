@@ -8,7 +8,7 @@
 <!-- Typing Header -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=200&color=AB55F7&center=true&vCenter=true&width=940&lines=3rd+year+BSIT+Student+=+Aspiring+Backend+Developer" alt="Typing SVG" 
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=200&color=AB55F7&center=true&vCenter=true&width=940&lines=3rd+Year+BSIT+Student;Aspiring+Backend+Developer" alt="Typing SVG" 
   />
 </div>
 
