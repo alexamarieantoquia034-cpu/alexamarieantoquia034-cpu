@@ -1,14 +1,14 @@
-<!-- Typing Header -->
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=200&color=AB55F7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Alexamarie+Antoquia" alt="Typing SVG" 
-  />
-</div>
 <!-- Banner -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20I'm%20Alexamarie!%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" 
     width="100%" 
+  />
+</div>
+<!-- Typing Header -->
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=200&color=AB55F7&center=true&vCenter=true&width=940&lines=3rd+year+BSIT+Student+=+Aspiring+Backend+Developer" alt="Typing SVG" 
   />
 </div>
 
@@ -21,13 +21,13 @@
   <img src="https://img.shields.io/badge/MINDSET-Growth%20%7C%20Problem%20Solver-orange?style=for-the-badge" />
 </p>
 
-I'm a passionate developer from the Philippines 🇵🇭 focused on building efficient and user-friendly web applications. I enjoy turning complex problems into simple and beautiful designs.
+I'm a passionate 3rd-year BSIT student and aspiring Backend Developer from CSUCC 🇵🇭. I enjoy building efficient, secure, and user-friendly web applications, transforming complex logic into smooth and reliable systems.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Full-Stack Web Development: **PHP**, **Laravel**, **JavaScript**, **Node.js**
+- Backedn Development: **PHP**, **Laravel**, **MYSQL**, **Node.js**, **MongoDB**
 
 ---
 
